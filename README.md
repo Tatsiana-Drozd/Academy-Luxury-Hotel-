@@ -1,2 +1,2 @@
-# Academy-Luxury-Hotel-
+Academy(Luxury Hotel)
 certification project "Luxury Hotel"
